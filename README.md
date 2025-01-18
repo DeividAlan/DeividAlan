@@ -1,5 +1,3 @@
-### Hi there, I'm Deivid Alan 👋
-
 <!--
 **DeividAlan/DeividAlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+**DeividAlan/DeividAlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+## 👋 Hi there! I'm Deivid Alan  
+
+I am a **Full Stack Developer** with extensive experience in developing complete applications, including backend, frontend, and mobile apps. I specialize in working with technologies like **JavaScript** (TypeScript), **React**, **React Native**, **Node.js**, **PHP** (Laravel, CakePHP), and **Python** (Flask, Django REST Framework).  
+
+### 🔭 What I’m working on  
+- Developing full-stack solutions for web and mobile applications.  
+- Deploying systems on platforms like **Amazon AWS** and **DigitalOcean**.  
+- Publishing mobile applications on **Apple App Store** and **Google Play Store**.  
+
+### 🌱 What I’m learning  
+- Deepening my knowledge in **Python** and **PHP**.  
+- Keeping up-to-date with the latest advancements in the **JavaScript** ecosystem.  
+
+### ⚡ Fun fact  
+Combining technical expertise with a background in **Business Administration** and an **MBA in Business Management**, I thrive on developing innovative and strategic solutions in technology!  
 
  <div>
   <a href="https://github.com/DeividAlan">
