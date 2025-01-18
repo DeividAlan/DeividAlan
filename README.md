@@ -31,7 +31,10 @@ I am a **Full Stack Developer** with extensive experience in developing complete
 - Keeping up-to-date with the latest advancements in the **JavaScript** ecosystem.  
 
 ### ⚡ Fun fact  
-Combining technical expertise with a background in **Business Administration** and an **MBA in Business Management**, I thrive on developing innovative and strategic solutions in technology!  
+Combining technical expertise with a background in **Business Administration** and an **MBA in Business Management**, I thrive on developing innovative and strategic solutions in technology!
+
+### 📫 How to reach me
+- LinkedIn: [https://www.linkedin.com/in/deivid-santos-1ab810221](https://www.linkedin.com/in/deivid-santos-1ab810221)  
 
  <div>
   <a href="https://github.com/DeividAlan">
